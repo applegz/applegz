@@ -1,16 +1,18 @@
 ### Hi there 👋
-
 <!--
 **applegz/applegz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=applegz.readme)
+
+![](http://antzuhl.cn:4000/get/@applegz.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=applegz&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
+
+- 🔭 I’m currently working on my [Capstone Project](https://github.com/GeniusGuava/StressedBrains): a turned-based RPG game to teach people how to use vim.
+- 🌱 I’m currently learning: phaser.js, graphQL, Appolo Client, MongoDB
+- 💬 Ask me about Anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guoyingzhong/) [Twitter](https://twitter.com/gyzhong)
+- 😄 Pronouns: she/her/hers
+
