@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on my [Capstone Project](https://github.com/GeniusGuava/StressedBrains): a turned-based RPG game to teach people how to use vim.
+- 🔭 I’m currently working on my [Capstone Project](https://github.com/GeniusGuava/StressedBrains): a educational RPG game to teach people how to use vim.
 - 🌱 I’m currently learning: phaser.js, graphQL, Appolo Client, MongoDB
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guoyingzhong/) [Twitter](https://twitter.com/gyzhong)
