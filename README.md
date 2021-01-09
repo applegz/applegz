@@ -10,8 +10,8 @@
 
 
 
-- 🔭 I’m currently working on my [Capstone Project](https://github.com/GeniusGuava/StressedBrains): a educational RPG game to teach people how to use vim.
-- 🌱 I’m currently learning: phaser.js, graphQL, Appolo Client, MongoDB
+- 🔭 I’m currently working on some mini projects
+- 🌱 I’m currently learning: d3.js, python, typescript, data structure and algorithm
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guoyingzhong/) [Twitter](https://twitter.com/gyzhong)
 - 😄 Pronouns: she/her/hers
