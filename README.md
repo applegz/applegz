@@ -10,21 +10,23 @@
 
 
 
-- 🔭 I’m currently working on some mini projects
-- 🌱 I’m learning: d3.js, python, typescript, data structure and algorithm
+- 🔭 I’m currently working on some mini-projects
+- 🌱 I’m learning: python, java, and ruby
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guoyingzhong/) [Twitter](https://twitter.com/gyzhong)
 - 😄 Pronouns: she/her/hers
-- :cookie:Things that I'm passion about: Food, Culture, Language
+- :cookie: Things that I'm passionate about: Food, Culture, Language
 
 ### Platforms, Languages & Tools
 [![](https://img.shields.io/badge/-Javascript-f0db4f?style=flat-square&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/)
 [![](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)](typescriptlang.org)
 [![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/)
 [![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/)
+[![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/)
 [![](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql&logoColor=ffffff)](https://google.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://docs.python.org/3/)
 [![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff)](https://www.r-project.org/)
+
 
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=ffffff)](https://redux.js.org/)
